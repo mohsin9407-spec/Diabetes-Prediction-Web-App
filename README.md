@@ -82,9 +82,8 @@ The app renders a result page showing "Diabetic" or "Not Diabetic" based on the 
     .env
     model.pkl
 
-## Contact
-If you need help improving the app, creating templates, Dockerizing, or converting README to Markdown, let me know!
-
 ## Licence
   MIT
+  ## Contact
+   Project created by the repository owner. For questions, reply here or add an issue on the repo.
 
